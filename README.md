@@ -5,3 +5,7 @@ An idea I had about using 3D-printed molds for pouring crayon wax, the basic con
 - Materials like ABS should be able to withstand the high heat (maybe)
 
 Still heavily WIP, check back later!
+
+
+# Credits
+- Example mold (heart) model from https://www.printables.com/model/589565-undertale-icon-heart/files
