@@ -8,4 +8,4 @@ Still heavily WIP, check back later!
 
 
 # Credits
-- Example mold (heart) model from https://www.printables.com/model/589565-undertale-icon-heart/files
+- Beta1 Example mold (heart) model from https://www.printables.com/model/589565-undertale-icon-heart/files
